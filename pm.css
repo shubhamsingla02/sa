@@ -20,7 +20,7 @@ body {
     margin-bottom: 30px;
   }
   .jumbotron {
-    background-image: url(img/nav.jpg);
+    background-image: url(nav.jpg);
     background-size: cover;
     color: #fff;
     padding: 100px 25px;
@@ -57,7 +57,7 @@ body {
   
   #contact{
 
-    background-image: url(img/cbg.jpg);
+    background-image: url(cbg.jpg);
     background-size: cover;
 
   }
@@ -88,7 +88,7 @@ body {
   }
   .navbar {
     margin-bottom: 0;
-    background-image: url('img/nav.jpg');
+    background-image: url('nav.jpg');
     background-size: cover;
     z-index: 9999;
     border: 0;
