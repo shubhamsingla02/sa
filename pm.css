@@ -20,7 +20,7 @@ body {
     margin-bottom: 30px;
   }
   .jumbotron {
-    background-image: url(nav.jpg);
+    background-image: url("nav.jpg");
     background-size: cover;
     color: #fff;
     padding: 100px 25px;
